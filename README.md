@@ -6,6 +6,8 @@ Since 2019, I've been learning the JavaScript programming language and want to c
 💬 Always write clean, readable, and well-commented code <br/>
 🤝 Love to share my skills, knowledge, and experience <br/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmamundots)](https://github.com/mhmamundots/github-readme-stats)
+
 # <!-- omit in toc -->
 
 ### Core Skills 
