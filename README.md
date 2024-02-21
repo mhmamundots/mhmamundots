@@ -1,5 +1,5 @@
-### Hey There 👋, I'm MH Mamun!
-## A Passionate Web Developer
+#### Hey There 👋, I'm MH Mamun!
+# UX UI Designer | Web Developer
 <img src="https://mhmamun.com/wp-content/uploads/2024/02/github-profile-banner.jpg" />
 Since 2019, I've been learning the JavaScript programming language and want to contribute my code to this community and did it. I am always focusing on writing clean and well-commented code.
 
