@@ -16,9 +16,18 @@ A passionate and professional UX UI Designer and Web Developer. Since 2019, I've
 ### Core Skills 
 ✔ HTML <br/>
 ✔ CSS <br/>
+✔ BEM Methodology <br/>
+✔ SMACSS Technology <br/>
 ✔ SASS/SCSS <br/>
 ✔ Tailwind CSS <br/>
 ✔ JavaScript <br/>
+✔ React JS <br/> 
+✔ Next JS <br/>
+✔ Node JS <br/> 
+✔ Express JS <br/>
+✔ MySQL <br/>
+✔ MongoDB <br/> 
+✔ Mongoose
 
 # <!-- omit in toc -->
 
