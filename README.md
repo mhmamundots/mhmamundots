@@ -9,6 +9,12 @@ A passionate and professional UX UI Designer and Web Developer. Since 2019, I've
 💬 Always write clean, readable, and well-commented code <br/>
 🤝 Love to share my skills, knowledge, and experience <br/>
 
+
+♥️ I love to solve problems using JavaScript Programming Language
+🤔 I’m looking for a "Front-end Developer" position
+📧 How to reach me: contact2mamunn@gmail.com
+📄 You can see my previous works: https://mhmamundots.com/
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmamundots)](https://github.com/mhmamundots/github-readme-stats)
 
 # <!-- omit in toc -->
@@ -32,7 +38,7 @@ A passionate and professional UX UI Designer and Web Developer. Since 2019, I've
 # <!-- omit in toc -->
 
 ### Keep Touch
-📧 <a href="mailto:sayhi@mhmamun.com">sayhi@mhmamun.com</a> <br/>
+📧 <a href="mailto:contact2mamunn@gmail.com">contact2mamunn@gmail.com</a> <br/>
 
 
 <!--
