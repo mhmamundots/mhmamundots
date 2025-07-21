@@ -12,8 +12,8 @@ A passionate and professional UX UI Designer and Web Developer. Since 2019, I've
 
 ♥️ I love to solve problems using JavaScript Programming Language
 🤔 I’m looking for a "Front-end Developer" position
-📧 How to reach me: contact2mamunn@gmail.com
-📄 You can see my previous works: https://mhmamundots.com/
+📧 How to reach me: mhmamundots@gmail.com
+📄 You can see my previous works: https://ponditshala.com/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmamundots)](https://github.com/mhmamundots/github-readme-stats)
 
