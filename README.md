@@ -38,7 +38,7 @@ A passionate and professional UX UI Designer and Web Developer. Since 2019, I've
 # <!-- omit in toc -->
 
 ### Keep Touch
-📧 <a href="mailto:contact2mamunn@gmail.com">contact2mamunn@gmail.com</a> <br/>
+📧 <a href="mailto:mhmamundots@gmail.com">mhmamundots@gmail.com</a> <br/>
 
 
 <!--
@@ -48,7 +48,7 @@ A passionate and professional UX UI Designer and Web Developer. Since 2019, I've
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 > [!IMPORTANT]\
-📞 <a href="tel:+8801987835636">+880 1987835636</a> <br/>
+📞 <a href="tel:01716326147">+880 1716 326 147</a> <br/>
 
 
 ### Professional Skills 
